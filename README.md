@@ -1,10 +1,7 @@
 # Hey there! 👋 I'm Sandanu-Jay
 
-### 💻 Aspiring Software Developer | IT Undergraduate 🚀
+### 💻 Aspiring Software Developer | IT Undergraduate UOR
 
-- 🌱 Always learning and improving my programming skills
-- 💡 Interested in software development and web technologies
-- 🎯 Working towards becoming a skilled developer
 
 ### 🧰 Languages & Technologies
 
