@@ -1,6 +1,7 @@
 # Hey there! 👋 I'm Sandanu-Jay
 
 ### 💻 Aspiring Software Developer | IT Undergraduate UOR
+> Dream in code, build with passion, and turn ideas into reality.
 
 
 ### 🧰 Languages & Technologies
@@ -14,12 +15,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandanu-Jay&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandanu-Jay&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🚀 My Goals
-
-- Build useful and creative projects
-- Improve my coding and problem-solving skills
-- Explore new technologies
 
 > 💫 Learn • Code • Build • Repeat
 
