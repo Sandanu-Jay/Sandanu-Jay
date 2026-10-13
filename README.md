@@ -1,4 +1,4 @@
-💻 Aspiring Software Developer | IT Undergraduate UOR
+### 💻 Aspiring Software Developer | IT Undergraduate UOR
 > Dream in code, build with passion, and turn ideas into reality.
 
 
